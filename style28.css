@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poiret+One&display=swap');
+.body-appearance7{
+    background-color: black;
+    width: 1600px;
+    height: 4000px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+.block-header{
+    width: 1600px;
+    height: 105px;
+    background-color: white;
+}
+.logo-img{
+    width: 180px;
+    height: 30px;
+    margin-top: 25px;
+    user-select: none;
+    margin-left: -40px;
+}
+.header-descript{
+    display: flex;
+    justify-content: end;
+    flex-flow: row-wrap;
+    gap: 20px;
+    color: black;
+    margin-top: -30px;
+    margin-right: 130px;
+    font-size: 24px;
+    user-select: none;
+}
+.city-select-descript{
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    margin-left: 1480px;
+    gap: 30px;
+    color: black;
+    margin-top: -42px;
+    font-size: 24px;
+    user-select: none;
+    border: 2px solid white;
+    width: 120px;
+    height: 40px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+}
+.header-search{
+    width: 1043px;
+    height: 64px;
+    font-size: 20px;
+    border-radius: 18px;
+    margin-top: 220px;
+    margin-left: 15%;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+}
+.button{
+    margin-top: 190px;
+    margin-left: 1076px;
+}
+.header-submit-btn{
+    width: 191px;
+    height: 64px;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+    background-color: #4B4B4B;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 30px;
+    margin-left: 17px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    user-select: none;
+}
+.caption-sm-main{
+    color: white;
+    font-size: 50px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    margin-top: 150px;
+    padding-left: 800px;
+}
+.nav-item{
+    padding-top: 220px;
+    margin-left: 1100px;
+}
+.cart-text{
+    color: rgb(0, 0, 0);
+}
+.cart-amount{
+    color: rgb(0, 0, 0)
+}
+.tvlg-block1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    gap: 70px;
+}
+.tvlg-ad1{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.tvlg-cap-block1{
+    margin-left: -20px;
+    font-size: 15px;
+}
+.tvlg-img1{
+    width: 355px;
+    height: 335px;
+    margin-top: 30px;
+}
+.tvlg-ad2{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.tvlg-cap-block2{
+    margin-left: -20px;
+    font-size: 15px;
+}
+.tvlg-ad3{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.tvlg-cap-block3{
+    margin-left: -20px;
+    font-size: 15px;
+}
+.tvlg-ad4{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.tvlg-cap-block4{
+    margin-left: -20px;
+    font-size: 15px;
+}
+.tvlg-ad5{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.tvlg-cap-block5{
+    margin-left: -20px;
+    font-size: 15px;
+}
+.tvlg-ad6{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.tvlg-cap-block6{
+    margin-left: -20px;
+    font-size: 15px;
+}
+.photo-cost45{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: -670px;
+    margin-top: 20px;
+}
+.photo-cost46{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: -650px;
+    margin-top: 20px;
+}
