@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poiret+One&display=swap');
+.body-appearance2{
+    background-color: black;
+    width: 1600px;
+    height: 5000px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+.block-header{
+    width: 1600px;
+    height: 105px;
+    background-color: white;
+}
+.logo-img{
+    width: 180px;
+    height: 30px;
+    margin-top: 25px;
+    user-select: none;
+    margin-left: -40px;
+}
+.header-descript{
+    display: flex;
+    justify-content: end;
+    flex-flow: row-wrap;
+    gap: 20px;
+    color: black;
+    margin-top: -30px;
+    margin-right: 130px;
+    font-size: 24px;
+    user-select: none;
+}
+.city-select-descript{
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    margin-left: 1480px;
+    gap: 30px;
+    color: black;
+    margin-top: -42px;
+    font-size: 24px;
+    user-select: none;
+    border: 2px solid white;
+    width: 120px;
+    height: 40px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+}
+.header-search{
+    width: 1043px;
+    height: 64px;
+    font-size: 20px;
+    border-radius: 18px;
+    margin-top: 220px;
+    margin-left: 15%;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+}
+.button{
+    margin-top: 190px;
+    margin-left: 1076px;
+}
+.header-submit-btn{
+    width: 191px;
+    height: 64px;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+    background-color: #4B4B4B;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 30px;
+    margin-left: 17px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    user-select: none;
+}
+.caption-sm-main{
+    color: white;
+    font-size: 50px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    margin-top: 150px;
+    padding-left: 600px;
+}
+.nav-item{
+    padding-top: 220px;
+    margin-left: 1100px;
+}
+.cart-text{
+    color: rgb(0, 0, 0);
+}
+.cart-amount{
+    color: rgb(0, 0, 0)
+}
+.ip11-15-ad-block1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    gap: 70px;
+}
+.ip11-15-ad1{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-15-img1{
+    width: 355px;
+    height: 335px;
+    margin-top: 30px;
+}
+.ip11-cap-block1{
+    margin-left: -20px;
+    font-size: 22px;
+}
+.ip11-15-ad2{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block2{
+    margin-left: -30px;
+    font-size: 22px;
+}
+.ip11-15-ad3{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block3{
+    margin-left: -40px;
+    font-size: 17px;
+}
+.name-price-block1{
+    text-align: left;
+    margin-left: -20px;
+}
+.name-price-ip{
+    font-size: 30px;
+}
+.btn-ip-block{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.btn-ip-1{
+    width: 190px;
+    height: 60px;
+    background-color: #4B4B4B;
+    border-radius: 22px;
+    color: white;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+.btn-ip-1:hover{
+    transition-duration: 0.5s;
+    transform: scale(1.2);
+    background-color: #979797;
+    border: 2px solid #979797;
+}
+.price-grn{
+    color: rgb(0, 0, 0);
+}
+.ip11-15-ad4{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block4{
+    padding-left: 10px;
+    font-size: 17px;
+}
+.ip11-15-ad5{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block5{
+    margin-left: -40px;
+    font-size: 17px;
+}
+.ip11-15-ad6{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block6{
+    margin-left: -40px;
+    font-size: 17px;
+}
+.ip11-15-ad7{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block7{
+    padding-left: 10px;
+    font-size: 17px;
+}
+.ip11-15-ad8{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block8{
+    margin-left: -60px;
+    font-size: 17px;
+}
+.ip11-15-ad9{
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: 150px;
+}
+.ip11-cap-block9{
+    margin-left: -40px;
+    font-size: 17px;
+}
+.main-otz1{
+    width: 1500px;
+    height: 400px;
+    background-color: rgb(209, 209, 209);
+    display: flex;
+    justify-content: center;
+
+}
+.caption-otzyvy{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-top: 250px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+}
+.photo-cost1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: -750px;
+    margin-top: 20px;
+}
+.name-cost{
+    color: black;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+}
+.star{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.otzyvy-descr{
+    color: rgb(0, 0, 0);
+    margin-top: -300px;
+    margin-left: 100px;
+}
+.rate-yes-no{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+}
+.rate-text{
+    margin-left: 180px;
+    margin-top: -39px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 300;
+}
+.main-otz2{
+    width: 1500px;
+    height: 400px;
+    background-color: rgb(209, 209, 209);
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.rate-yes-no1{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    margin-left: 50px;
+}
+.otzyvy-descr1{
+    color: rgb(0, 0, 0);
+    margin-top: -300px;
+    margin-left: 150px;
+}
+.photo-cost2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: -700px;
+    margin-top: 20px;
+}
+.footer-block-ip{
+    margin-top: 600px;
+    margin-left: -50px;
+}
+.ip-footer-block{
+    width: 1600px;
+    height: 300px;
+    background-color: white;
+}
+.footer-logo1{
+    width: 300.88px;
+    height: 50px;
+    margin-left: 1350px;
+    margin-top: 240px;
+}
+.pay-img-block{
+    margin-top: -80px; 
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.mastercard-img,.privat-bnk-img{
+    width: 59px;
+    height: 48px;
+}
+.visa-img{
+    width: 152px;
+    height: 48px;
+}

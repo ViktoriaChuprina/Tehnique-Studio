@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poiret+One&display=swap');
+.body-appearance{
+    background-color: black;
+    width: 1600px;
+    height: 3500px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+.block-header{
+    width: 1600px;
+    height: 95px;
+    background-color: white;
+}
+.logo-img{
+    width: 180px;
+    height: 30px;
+    margin-top: 25px;
+    user-select: none;
+    margin-left: -40px;
+}
+.header-descript{
+    display: flex;
+    justify-content: end;
+    flex-flow: row-wrap;
+    gap: 20px;
+    color: black;
+    margin-top: -30px;
+    margin-right: 130px;
+    font-size: 24px;
+    user-select: none;
+}
+.city-select-descript{
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    margin-left: 1480px;
+    gap: 30px;
+    color: black;
+    margin-top: 22px;
+    font-size: 24px;
+    user-select: none;
+    border: 2px solid white;
+    width: 120px;
+    height: 40px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    user-select: none;
+}
+.header-block-ad{
+    width: 360px;
+    height: 564px;
+    background-color: #D9D9D9;
+    margin-top: 392px;
+    margin-left: 42px;
+    border-radius: 29px;
+}
+.header-img-smw{
+    width: 300px;
+    height: 330px;
+    padding-left: 20px;
+    padding-top: 79px;
+    user-select: none;
+}
+.header-caption{
+    font-size: 36px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 700;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: -550px;
+    padding-right: 950px;
+    gap: 160px;
+    align-items: center;
+    margin-top: -90px;
+    user-select: none;
+}
+.header-block-ad1{
+    width: 360px;
+    height: 564px;
+    margin-left: 590px;
+    margin-top: -553px;
+    background-color: #868686;
+    border-radius: 29px;
+}
+.header-img-smartphone{
+    width: 375px;
+    height: 398px;
+    padding-left: 0px;
+    padding-top: 49px;
+    user-select: none;
+}
+.header-block-ad2{
+    width: 360px;
+    height: 564px;
+    background-color: #4B4B4B;
+    margin-left: 1150px;
+    margin-top: -565px;
+    border-radius: 29px;
+}
+.header-img-headphone{
+    width: 360px;
+    height: 375px;
+    padding-left: 0px;
+    padding-top: 49px;
+    user-select: none;
+}
+.main-caption{
+    font-size: 48px;
+    color: white;
+    margin-left: 40%;
+    margin-top: 200px;
+    user-select: none;
+}
+.main-block1,.main-block2,.main-block3{
+    width: 1330px;
+    height: 552px;
+    background-color: #0E0E0E;
+    border-radius: 45px; 
+    margin-top: 50px;
+    margin-left: 6%;
+}
+.main-caption-Iphone15{
+    color: white;
+    font-size: 36px;
+    margin-left: 45%;
+    font-family: "Mulish", sans-serif;
+    font-weight: 300;
+    user-select: none;
+    padding-top: 12px;
+}
+.main-img-IPhone15{
+    width: 595px;
+    height: 552px;
+    margin-left: -15px;
+    margin-top: 0px;
+}
+.text-phone{
+    color: white;
+    font-size: 36px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 200;
+    padding-left: 600px;
+    padding-right: 100px;
+    margin-top: -450px;
+    user-select: none;
+}
+.main1-img-IPhone15{
+    width: 558px;
+    height: 612px;
+    margin-top: -13px;
+    margin-left: 800px;
+}
+.text-phone1{
+    color: white;
+    font-size: 36px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 200;
+    padding-left: 100px;
+    padding-right: 600px;
+    margin-top: -600px;
+    user-select: none;
+}
+.main1-caption-Iphone15{
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    font-weight: 300;
+    padding-top: 5px;
+    user-select: none;
+}
+.text-phone2{
+    color: white;
+    font-size: 36px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 200;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: -2px;
+    user-select: none;
+}
+.footer-block{
+    background-color: white;
+    width: 1600px;
+    height: 230px;
+    margin-top: 580px;
+}
+.footer-pro-text{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 300;
+    padding-top: 60px;
+    line-height: 40px;
+    user-select: none;
+}
+.footer-logo{
+    width: 300.88px;
+    height: 50px;
+    margin-top: -230px;
+    margin-left: 1300px;
+    margin-bottom: 25px;
+}
+.main-block{
+    margin-top: 800px;
+}
+.ip15-video{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 60px;
+}

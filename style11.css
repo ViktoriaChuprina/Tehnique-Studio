@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poiret+One&display=swap');
+.body-appearance6{
+    background-color: rgb(0, 0, 0);
+    width: 1600px;
+    height: 1500px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+.head-cap1{
+    color: white;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 600;
+    margin-left: 15%;
+    margin-top: 150px;
+}
+.head-block1{
+    width: 700px;
+    height: 1050px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 27%;
+    margin-top: 100px;
+    padding-top: 10px;
+}
+.label-name{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.input-field{
+    width: 600px;
+    height: 40px;
+    border-radius: 15px;
+}
+.caption-gen{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.date-caption{
+    margin-left: 90px;
+}
+.date-block-field{
+    width: 600px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.label-email,.label-password,.label-phone{
+    margin-left: 50px;
+}
